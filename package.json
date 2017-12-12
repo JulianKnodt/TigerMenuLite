@@ -1,0 +1,21 @@
+{
+  "name": "pton",
+  "version": "1.0.0",
+  "description": "A gift for O. Guan",
+  "main": "pton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Christmas"
+  ],
+  "author": "Julian Knodt <julianknodt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "colors": "^1.1.2",
+    "phantom": "^4.0.11",
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19"
+  }
+}
